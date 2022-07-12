@@ -1,0 +1,8 @@
+C:\Users\kathe\Desktop\DAW\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\ProyectoFinal.dll
+C:\Users\kathe\Desktop\DAW\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\ProyectoFinal.pdb
+C:\Users\kathe\Desktop\DAW\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\ProyectoFinal.xml
+C:\Users\kathe\Desktop\DAW\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Resources.resources
+C:\Users\kathe\Desktop\DAW\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.vbproj.GenerateResource.Cache
+C:\Users\kathe\Desktop\DAW\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.dll
+C:\Users\kathe\Desktop\DAW\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.xml
+C:\Users\kathe\Desktop\DAW\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
