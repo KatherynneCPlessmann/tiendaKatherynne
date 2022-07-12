@@ -1,2 +1,309 @@
-﻿body {
+﻿ #menu {
+    font-size: 25px;
+}
+
+#icono {
+    margin-right: 12px;
+}
+
+#menu a{
+    color: white; text-shadow: black 0.1em 0.1em 0.2em;
+    border-color: black;
+    font-family: 'Pacifico', cursive;
+}
+
+.foot {
+    width:100%;
+    padding: 30px;
+    font-size: 20px;
+    color: black;
+    background: #AEEE94;
+    text-align: center;
+    font-family: 'Itim', cursive;
+    position:relative;
+    bottom: 0;
+    height:11%;
+}
+/*Inicio - Contacto*/
+.h1Inicio {
+    text-align: center;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    color: #FFEE5F;
+    font-family: "Itim", cursive;
+    font-size: 50px;
+}
+.texto {
+  font-size: 32px;
+  text-align: justify;
+  padding: 10px;
+  font-family: "Itim", cursive;
+  color: white;
+}
+
+.textoC {
+  font-size: 35px;
+  text-align: center;
+  padding: 10px;
+  font-family: "Itim", cursive;
+  color: white;
+}
+
+.map {
+  text-align: center;
+  font-family: "Itim", cursive;
+  font-size: 30px;
+  color: white;
+}
+
+.fondo {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.85),rgba(0, 0, 0, 0.85)),url(/Imagenes/Mercado.jpg);
+  background-size: cover;
+}
+
+
+
+
+/*Administrador*/
+.bodyAdm {
+    text-align:center;
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
+    url(/Imagenes/fondo2.png);
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+}
+
+.LoginA {
+    height:390px;
+    color:white;
+}
+
+.AdmT {
+    text-align: center;
+    margin: auto;
+}
+.adm {
+    margin-top:12%;
+}
+  /*Cliente*/
+
+.bodyCliente {
+    text-align:center;
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
+    url(/Imagenes/fondo.png);
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+}
+
+.LoginC {
+    height:420px;
+    color:white;
+}
+
+.ClienteT {
+    text-align: center;
+    margin: auto;
+}
+.clie {
+    margin-top:10%;
+}
+
+.bo1 {
+    background-color:#FF5555;
+    border-style:none;
+    border-radius:8px;
+    width:80px;
+    height:30px;
+    font-weight:700;
+}
+
+.Us{
+    text-align:center;
+    border-color:black;
+}
+.Pa{
+    text-align:center;
+    border-color:black;
+} 
+
+
+    /*Registro*/
+.bodyR{
+    text-align:center;
+    width: 100%;
+    height: 100vh;
+    background-image: url(/Imagenes/fondoR.jpg);
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+}
+.tablaR {
+            width: 600px;
+            display:block;
+            margin-left:0;
+            margin-right: 15px;
+            margin-top:12px;
+            
+             
+  border-spacing: 20px 10px;
+  background: rgba(255,255,255,0.2);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+  }
+
+.tituloR {
+    text-align: center;
+    font-family: 'Itim', cursive;
+    display:block;
+    margin:auto;
+    color: black; 
+    font-size: 35px;
+    margin-bottom: 8px;}
+.imgR {
+    width:400px;
+    height:600px;
+     display:block;
+    margin-top: 12px;
+    margin-left: 100px;
+}
+.bR {
+    background-color:#FF5555;
+    border-style:none;
+    border-radius:8px;
+    width:140px;
+    height:30px;
+    font-weight:600;
+    margin-bottom: 20px;
+}
+
+    /*Inicio C*/
+.bodyC{
+        background-image:  url(/Imagenes/ff.png);
+    text-align:center;
+    width: 100%;
+    height: 100vh;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+}
+.h1C {
+        text-align: center;
+    font-family: 'Itim', cursive;
+    display:block;
+    margin:auto;
+    color: #76CA54;
+    font-size:80px; 
+    }
+.labelC {
+    text-align: center;
+    display:block;
+    margin:auto;
+    font-family: 'Itim', cursive;
+    font-size:32px;
+}
+.b1C {
+    background-color:#FF5555;
+    border-style:none;
+    border-radius:8px;
+    width:120px;
+    height:30px;
+    font-weight:600;
+    margin-bottom: 20px;
+    margin-right: 0;
+}
+.b2C {
+    background-color:#AEEE94;
+    border-style:none;
+    border-radius:8px;
+    width:120px;
+    height:30px;
+    font-weight:600;
+    margin-bottom: 20px;
+}
+.contenedorC {
+    width:50%;
+    display:block;
+    margin:auto;
+}
+.tablaC{
+    border-color: #76CA54;
+}
+
+.textoIc{
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+}
+
+
+    /*Inicio A*/
+
+    .bodyA{
+        background-image:  url(/Imagenes/ff.png);
+    text-align:center;
+    width: 100%;
+    height: 100vh;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+}
+.h1A {
+        text-align: center;
+    font-family: 'Itim', cursive;
+    display:block;
+    margin:auto;
+    color: #76CA54;
+    font-size:80px; 
+    }
+.labelA {
+    text-align: center;
+    display:block;
+    margin:auto;
+    font-family: 'Itim', cursive;
+    font-size:32px;
+}
+.b1A {
+    background-color:#FF5555;
+    border-style:none;
+    border-radius:8px;
+    width:120px;
+    height:30px;
+    font-weight:600;
+    margin-bottom: 20px;
+    margin-right: 0;
+}
+.b2A {
+    background-color:#AEEE94;
+    border-style:none;
+    border-radius:8px;
+    width:120px;
+    height:30px;
+    font-weight:600;
+    margin-bottom: 20px;
+}
+.contenedorA {
+    width:50%;
+    display:block;
+    margin:auto;
+}
+
+.tablaA{
+    border-color: #76CA54;
+}
+
+.textoIa{
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+}
+.tablaAdm {
+    display:block;
+    margin:auto;
+    width:30%;
+     border-spacing: 20px 10px;
+  background: rgba(255,255,255,0.2);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+
 }
